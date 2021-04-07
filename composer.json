@@ -1,0 +1,7 @@
+{
+  "name": "folly-enterprises/yoast-sitemap-cli",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "^1.0"
+  }
+}
